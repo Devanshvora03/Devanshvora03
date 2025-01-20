@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Devansh Vora
 ====================================================================================================================================
 
-Machine Learning & Artificial Intelligence Engineer
+Machine Learning & Artificial Intelligence Enthusiast
 -------------------------
 
 Passionate AI-ML developer with expertise in designing and deploying end-to-end AI applications. Skilled in Machine Learning, Deep Learning, NLP, and Generative AI, I have hands-on experience working with LLMs, VLMs, LMMs, RAG systems, and AI agents. Proficient in frameworks like TensorFlow, LangChain, and Phidata, I excel at applying innovative solutions to solve complex challenges. A proven leader and collaborative team player, I have successfully managed large-scale events, fostering impactful collaborations and building vibrant communities. My approach focuses on driving growth and innovation through teamwork and inspiring collective success.
